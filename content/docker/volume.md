@@ -1,2 +1,0 @@
-- Used for **persistent data** outside the container lifecycle.
-- Containers are stateless; volumes help keep data between restarts.
